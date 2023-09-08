@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 08 Sep 2023 13:15:01 -0300</lastBuildDate><atom:link href="https://whitengine.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>this is some post</title>
-      <link>https://whitengine.github.io/posts/mypost/</link>
+      <link>https://whitengine.github.io/2023/09/this-is-some-post/</link>
       <pubDate>Fri, 08 Sep 2023 13:15:01 -0300</pubDate>
       
-      <guid>https://whitengine.github.io/posts/mypost/</guid>
+      <guid>https://whitengine.github.io/2023/09/this-is-some-post/</guid>
       <description>this is some markdown</description>
     </item>
     
