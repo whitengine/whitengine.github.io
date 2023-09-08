@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Enzo Giannotta</title>
     <link>https://whitengine.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Enzo Giannotta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Sep 2023 13:15:01 -0300</lastBuildDate><atom:link href="https://whitengine.github.io/index.xml" rel="self" type="application/rss+xml" />
