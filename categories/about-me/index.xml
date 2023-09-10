@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About me on Enzo Giannotta</title>
+    <link>https://whitengine.github.io/categories/about-me/</link>
+    <description>Recent content in About me on Enzo Giannotta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://whitengine.github.io/categories/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me 🧑</title>
+      <link>https://whitengine.github.io/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whitengine.github.io/about-me/</guid>
+      <description>Born on March 3rd, 1998 in Buenos Aires (Argentina). 🎂
+CVC 📂 March 2023 - now: PhD student in mathematics, in the university Pontificia Universidad Católica de Valparaíso (Chile).
+March 2017 - October 2022: Undergraduate studies in the University of Buenos Aires (Argentina).
+Theses in mathematics 📝 October 11th, 2022. Undergraduate thesis: Introduction to the local Langlands correspondance for GL2. Directed by Nicolás Sirolli. Seminars 🧑‍🎓 Second semester 2023. Students seminar: Graduate seminar organized by students (I was one of the organizers).</description>
+    </item>
+    
+    <item>
+      <title>Research 🔬</title>
+      <link>https://whitengine.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whitengine.github.io/research/</guid>
+      <description>About my research: &amp;mdash;&amp;mdash;&amp;mdash;
+(Pre)publications Scholarship At the moment I have a scholarship: Beca de Manutención para alumnos extranjeros de programas de doctorado de la Pontificia Universidad Católica de Valparaíso 2023. Current grants Previous grants </description>
+    </item>
+    
+    <item>
+      <title>Teaching 🧑‍🏫</title>
+      <link>https://whitengine.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whitengine.github.io/teaching/</guid>
+      <description>Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Matemática (📍 Buenos Aires, Argentina) Ayudante de Primera con dedicación parcial (Teaching assistant with more duties) My duties involved correcting exams, answering questions about exercises and preparing half of the problem-solving classes.
+Second semester 2022: Álgebra I. Sets, arithmetic of integers. Complex numbers and polynomials in K[X]. Ayudante de Segunda (Teaching assistant) My duties involved correcting exams, answering questions about exercises and preparing only two or three problem-solving classes.</description>
+    </item>
+    
+  </channel>
+</rss>
