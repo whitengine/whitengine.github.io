@@ -1,0 +1,46 @@
+/* Add this CSS to your "error-page-styles.css" file */
+.error-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: .Site.Author.picture; /* Replace 'your-image.jpg' with the path to your background image */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.error-content {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent white background to make text more readable */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Rest of your existing CSS styles */
+.error-title {
+  font-size: 48px;
+  color: #ff5733;
+  margin-bottom: 10px;
+}
+
+.error-message {
+  font-size: 18px;
+  color: #555;
+  margin-top: 10px;
+}
+
+.error-link {
+  margin-top: 20px;
+}
+
+.error-link a {
+  color: #007BFF;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.error-link a:hover {
+  text-decoration: underline;
+}
+
