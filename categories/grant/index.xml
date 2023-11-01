@@ -5,16 +5,15 @@
     <link>https://whitengine.github.io/categories/grant/</link>
     <description>Recent content in Grant on Enzo Giannotta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://whitengine.github.io/categories/grant/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://whitengine.github.io/categories/grant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research 🔬</title>
       <link>https://whitengine.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://whitengine.github.io/research/</guid>
       <description>About my research: &amp;mdash;&amp;mdash;&amp;mdash;
 (Pre)publications Scholarship At the moment I have a scholarship: Beca de Manutención para alumnos extranjeros de programas de doctorado de la Pontificia Universidad Católica de Valparaíso 2023. Current grants Previous grants </description>
     </item>
-    
   </channel>
 </rss>

@@ -5,17 +5,16 @@
     <link>https://whitengine.github.io/categories/mail/</link>
     <description>Recent content in Mail on Enzo Giannotta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://whitengine.github.io/categories/mail/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://whitengine.github.io/categories/mail/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact Information 📞</title>
       <link>https://whitengine.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://whitengine.github.io/contact/</guid>
       <description>&lt;!DOCTYPE html&gt; Reemplazar &amp;#39;AT&amp;#39; por &amp;#39;@&amp;#39; y &amp;#39;DOT&amp;#39; por &amp;#39;.&amp;#39; 📞 Phone: &amp;mdash;&amp;mdash;&amp;mdash;
 💼 Office: &amp;mdash;&amp;mdash;&amp;mdash;
 📍 Location: Instituto de Matemáticas PUCV, Blanco Viel 596, Valparaíso, Chile</description>
     </item>
-    
   </channel>
 </rss>

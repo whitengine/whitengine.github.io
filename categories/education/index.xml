@@ -5,16 +5,15 @@
     <link>https://whitengine.github.io/categories/education/</link>
     <description>Recent content in Education on Enzo Giannotta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://whitengine.github.io/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://whitengine.github.io/categories/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching 🧑‍🏫</title>
       <link>https://whitengine.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://whitengine.github.io/teaching/</guid>
       <description>Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Matemática (📍 Buenos Aires, Argentina) Ayudante de Primera con dedicación parcial (Teaching assistant with more duties) My duties involved correcting exams, answering questions about exercises and preparing half of the problem-solving classes.
 Second semester 2022: Álgebra I. Sets, arithmetic of integers. Complex numbers and polynomials in K[X]. Ayudante de Segunda (Teaching assistant) My duties involved correcting exams, answering questions about exercises and preparing only two or three problem-solving classes.</description>
     </item>
-    
   </channel>
 </rss>
